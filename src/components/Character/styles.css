@@ -1,0 +1,13 @@
+.x {
+  width: 200px;
+  height: 50px;
+  color: white;
+  background-color: rgb(0, 91, 114);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px 15px;
+}
